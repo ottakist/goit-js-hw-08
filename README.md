@@ -1,1 +1,1 @@
-GoIt bootcamp hw project for portfolio https://ottakist.github.io/goit-js-hw-08/
+GoIt bootcamp hw project for portfolio http://ottakist.github.io/goit-js-hw-08/
